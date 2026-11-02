@@ -8,3 +8,9 @@ venv/
 .venv/
 __pycache__
  *.pyc
+extracted_diagrams/
+debug_*.png
+extracted_diagrams/
+extracted_images/
+*.docx
+
